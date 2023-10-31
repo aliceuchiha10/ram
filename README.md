@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)

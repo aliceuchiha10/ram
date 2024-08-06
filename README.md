@@ -1,1 +1,1 @@
-added badges (#45)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
